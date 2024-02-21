@@ -11,7 +11,7 @@ namespace DistributeurBoissonChaude
     {              
         static void Main(string[] args)
         {
-           //DistributeurBoissonClass distributeurBoissonClass = new DistributeurBoissonClass();
+           
            Console.WriteLine("Veuillez saisir une Boisson parmi la liste");
            foreach (var item in DistributeurBoissonClass.compositionBoisson)
            {
