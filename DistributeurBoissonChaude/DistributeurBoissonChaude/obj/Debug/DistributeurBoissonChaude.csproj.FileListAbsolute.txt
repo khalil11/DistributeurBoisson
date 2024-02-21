@@ -1,0 +1,6 @@
+C:\Users\khali\Documents\Visual Studio 2013\Projects\DistributeurBoissonChaude\DistributeurBoissonChaude\bin\Debug\DistributeurBoissonChaude.exe.config
+C:\Users\khali\Documents\Visual Studio 2013\Projects\DistributeurBoissonChaude\DistributeurBoissonChaude\bin\Debug\DistributeurBoissonChaude.exe
+C:\Users\khali\Documents\Visual Studio 2013\Projects\DistributeurBoissonChaude\DistributeurBoissonChaude\bin\Debug\DistributeurBoissonChaude.pdb
+C:\Users\khali\Documents\Visual Studio 2013\Projects\DistributeurBoissonChaude\DistributeurBoissonChaude\obj\Debug\DistributeurBoissonChaude.csprojResolveAssemblyReference.cache
+C:\Users\khali\Documents\Visual Studio 2013\Projects\DistributeurBoissonChaude\DistributeurBoissonChaude\obj\Debug\DistributeurBoissonChaude.exe
+C:\Users\khali\Documents\Visual Studio 2013\Projects\DistributeurBoissonChaude\DistributeurBoissonChaude\obj\Debug\DistributeurBoissonChaude.pdb
